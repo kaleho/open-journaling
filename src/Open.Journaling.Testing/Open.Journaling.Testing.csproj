@@ -9,9 +9,9 @@
     <Company>Kaleho Contributors</Company>
     <RepositoryUrl>https://github.com/kaleho/open-journaling</RepositoryUrl>
     <PackageProjectUrl>https://github.com/kaleho/open-journaling</PackageProjectUrl>
-    <PackageTags>journaling journal logbook recordbook</PackageTags>
+    <PackageTags>journaling-testing journal-testing logbook-testing recordbook-testing</PackageTags>
     <PackageLicenseFile>LICENSE.TXT</PackageLicenseFile>
-    <Description>Often times while working on systems it is extremely helpful, if not essential, to have a complete record of interactions. Whether those interactions are categorized as commands, events, or both is anything from a matter of preference to a deeply held dogma.  This is an mechanism for doing that.</Description>
+    <Description>This package contains mock journal and journal provider used for testing scenarios with the Open.Journaling.* package(s).</Description>
     <RootNamespace>Open.Journaling</RootNamespace>
   </PropertyGroup>
 
