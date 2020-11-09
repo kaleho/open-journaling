@@ -52,8 +52,8 @@ jobs:
         run: dotnet build src/$PROJECT_NAME.sln --configuration $ENV -p:Version=$VERSION
         shell: bash
 
-      - name: publish
-        run: dotnet test src/$PROJECT_NAME.sln --no-build --configuration $ENV --self-contained --framework netcoreapp3.1
+      - name: test
+        run: dotnet test src/$PROJECT_NAME.sln --no-build --configuration $ENV --framework netcoreapp3.1
         shell: bash
 
       - name: publish
