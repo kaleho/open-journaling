@@ -1,7 +1,7 @@
 
 # Open Journaling
 
-Often times while working on systems it is extremely helpful, if not essential, to have a complete record of interactions. Whether those interactions are categorized as commands, events, or both is anything from a matter of preference to a deeply held dogma.  This is an mechanism for doing that.  
+Often times while working on systems it is extremely helpful, if not essential, to have a complete record of interactions. Whether those interactions are categorized as commands, events, or both is anything from a matter of preference to a deeply held dogma.  This is a mechanism for doing that.  
 
 _[journal](https://en.wiktionary.org/wiki/journal)_  
 
